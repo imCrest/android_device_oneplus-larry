@@ -45,3 +45,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct=OP5958L1 \
     SystemDevice=OP5958L1 \
     SystemName=OP5958L1
+
+PRODUCT_PACKAGES += LarryUpdaterOverlay
